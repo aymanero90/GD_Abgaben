@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+
+# For 2D Game
 /Kracky Man 2D/Kracky man Dev/[Ll]ibrary/
 /Kracky Man 2D/Kracky man Dev/[Tt]emp/
 /Kracky Man 2D/Kracky man Dev/[Oo]bj/
@@ -9,6 +11,16 @@
 /Kracky Man 2D/Kracky man Dev/[Bb]uilds/
 /Kracky Man 2D/Kracky man Dev/[Ll]ogs/
 /Kracky Man 2D/Kracky man Dev/[Mm]emoryCaptures/
+
+# For 3D Game
+/Escape Ball 3D/Escape ball Dev/[Ll]ibrary/
+/Escape Ball 3D/Escape ball Dev/[Tt]emp/
+/Escape Ball 3D/Escape ball Dev/[Oo]bj/
+/Escape Ball 3D/Escape ball Dev/[Bb]uild/
+/Escape Ball 3D/Escape ball Dev/[Bb]uilds/
+/Escape Ball 3D/Escape ball Dev/[Ll]ogs/
+/Escape Ball 3D/Escape ball Dev/[Mm]emoryCaptures/
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
