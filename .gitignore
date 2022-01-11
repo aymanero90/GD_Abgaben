@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/Kracky Man 2D/Kracky man Dev/[Ll]ibrary/
-/Kracky Man 2D/Kracky man Dev/[Tt]emp/
-/Kracky Man 2D/Kracky man Dev/[Oo]bj/
-/Kracky Man 2D/Kracky man Dev/[Bb]uild/
-/Kracky Man 2D/Kracky man Dev/[Bb]uilds/
-/Kracky Man 2D/Kracky man Dev/[Ll]ogs/
-/Kracky Man 2D/Kracky man Dev/[Mm]emoryCaptures/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Ll]ibrary/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Tt]emp/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Oo]bj/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Bb]uild/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Bb]uilds/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Ll]ogs/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
