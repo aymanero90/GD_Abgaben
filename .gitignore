@@ -21,6 +21,15 @@
 /Escape Ball 3D/Escape ball Dev/[Ll]ogs/
 /Escape Ball 3D/Escape ball Dev/[Mm]emoryCaptures/
 
+# For Referat
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Ll]ibrary/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Tt]emp/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Oo]bj/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Bb]uild/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Bb]uilds/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Ll]ogs/
+/Referat Hinge Joint/Referat Hinge Joint Dev/[Mm]emoryCaptures/
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
